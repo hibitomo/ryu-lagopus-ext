@@ -1289,7 +1289,7 @@ oxm_types = [
     oxm_fields.OpenFlowBasic('gtpu_ver', 62, type_desc.Int1),
     oxm_fields.OpenFlowBasic('gtpu_msgtype', 63, type_desc.Int1),
     oxm_fields.OpenFlowBasic('gtpu_teid', 64, type_desc.Int4)
-] + nx_match.oxm_types
+] + nicira_ext.oxm_types
 oxm_fields.generate(__name__)
 
 
