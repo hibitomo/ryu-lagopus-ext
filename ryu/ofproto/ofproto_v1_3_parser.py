@@ -36,7 +36,6 @@ The following extensions are partially implemented.
 
     - EXT-187 Flow entry notifications Extension (ONFMP_FLOW_MONITOR only)
     - EXT-232 Table synchronisation Extension (Error codes only)
-    - EXT-232 Table synchronisation Extension (Error codes only)
     - EXT-382 General tunnel encap/decap
     - EXT-565 GTP tunneling as part of Generic tunnel encap / decap
 

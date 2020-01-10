@@ -14,6 +14,7 @@
 # limitations under the License.
 
 import struct
+
 from ryu.lib.pack_utils import msg_pack_into
 from . import packet_base
 from . import packet_utils

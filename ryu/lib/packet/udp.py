@@ -18,7 +18,6 @@ import struct
 from . import packet_base
 from . import packet_utils
 from . import dhcp
-from . import vxlan
 from . import gtpu
 from . import dhcp6
 from . import vxlan
